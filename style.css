@@ -8,3 +8,7 @@
     body {
         background-color: var(--cor-de-fundo);
     }
+    .lista-menu{
+        display: none;
+    }
+    
